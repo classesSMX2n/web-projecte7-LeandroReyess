@@ -10,4 +10,4 @@ Aquest repositori recull la proposta de **landing page** per a FoodLogistic, ori
 
 La tasca inclou la definició de l’estructura de continguts, la proposta visual i l’enfocament de comunicació, així com l’adaptació de la pàgina a la normativa vigent en matèria de comerç electrònic i protecció de dades: **RGPD** i **LSSI-CE**. En concret, es contempla la incorporació d’elements legals i de transparència com l’avís legal, la política de privacitat, la política de cookies i els mecanismes de consentiment corresponents.
 
-https://aleixkadado.github.io/Foodlogistic-Aleix/
+Enllaç web: https://aleixkadado.github.io/Foodlogistic-Aleix/
