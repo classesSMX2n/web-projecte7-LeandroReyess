@@ -2,7 +2,7 @@
 
 ![Logo](FoodLogisticLogo.png)
 
-Autors: [nom dels components del grup]
+Autors: (Leandro Linares de los Reyes, Aleix Kadado Solé)
 
 ## Descripció
 
